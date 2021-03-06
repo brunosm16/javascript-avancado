@@ -1,4 +1,4 @@
 # Desenvolvimento Avançado com JavaScript ES6
 
-##  Conteudos Estudados
+##  Conteúdos Estudados
 - Funções avançandas do ES6
